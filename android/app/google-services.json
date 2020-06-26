@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "534068739728",
+    "firebase_url": "https://neww-f55bc.firebaseio.com",
+    "project_id": "neww-f55bc",
+    "storage_bucket": "neww-f55bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534068739728:android:c909fec84dd648dd17e215",
+        "android_client_info": {
+          "package_name": "com.example.newww"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534068739728-cpm5o9g2ok3t4fnbqop07i957es3qg0k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSvQQJIOfosTs6NFGZJZPnD2-hwDk-2Q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534068739728-cpm5o9g2ok3t4fnbqop07i957es3qg0k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
